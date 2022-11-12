@@ -14,4 +14,4 @@ https://gist.github.com/mikscust
 
 gitbook:
 
-mikaela-custodio.gitbook.io
+https://mikaela-custodio.gitbook.io
